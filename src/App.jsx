@@ -10,7 +10,7 @@ import InterviewHistory from './pages/InterviewHistory'
 import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
 
-export const SERVER_URL ="http://localhost:8000"
+export const SERVER_URL ="https://ai-interview-analysis-platform-backend.onrender.com"
 
 function App() {
 
